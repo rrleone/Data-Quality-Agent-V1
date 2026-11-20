@@ -36,3 +36,8 @@ htmlcov/
 *.tmp
 *.swp
 .vscode/
+# Arquivos sensíveis e backups locais
+*API_KEY*
+*credentials*
+*secret*
+*_backup*
